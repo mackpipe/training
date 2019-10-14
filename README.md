@@ -10,3 +10,5 @@ Repositorio para entrenamiento
 ## Configurar usuario y correo en Git
 #git config --global user.email "nombre@dominio.com"
 #git config --global user.name "Nombre usuario"
+
+## Esto fue un commit directo a master
