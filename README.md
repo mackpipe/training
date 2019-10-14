@@ -14,11 +14,26 @@ Repositorio para entrenamiento
 ## Para veritifcar el estado del repositorio
 #git status
 
-## Pada adicionar archivos al staging 
+
+#Estado de archivos 
+
+## Pada adicionar archivos al Staged 
 # git add .
+# git add archivo.txt
+# git add carpeta/
+
+## Si se quiere quitar un archivo del Staged
+# git reset HEAD athivo.txt
 
 ## Para hacer un Commit 
 #git commit -m "Se envia el commit"
 
+## Para descartar algun cambio posterior al commit
+# git checkout --archivo.txt
+
+#git status  -  muestra los posibles comandos del proceso de estado de archivos
+
 ## para ver el log del git
 #git log
+
+
