@@ -11,6 +11,7 @@ Repositorio para entrenamiento
 #git config --global user.email "nombre@dominio.com"
 #git config --global user.name "Nombre usuario"
 
+
 ## Para veritifcar el estado del repositorio
 #git status
 
@@ -36,4 +37,6 @@ Repositorio para entrenamiento
 ## para ver el log del git
 #git log
 
+=======
+## Esto fue un commit directo a master
 
