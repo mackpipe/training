@@ -18,25 +18,26 @@ Repositorio para entrenamiento
 
 #Estado de archivos 
 
-## Pada adicionar archivos al Staged 
-# git add .
-# git add archivo.txt
-# git add carpeta/
+## Para adicionar archivos al Staged 
+#git add .
+#git add archivo.txt
+#git add carpeta/
 
 ## Si se quiere quitar un archivo del Staged
-# git reset HEAD athivo.txt
+#git reset HEAD archivo.txt
 
 ## Para hacer un Commit 
 #git commit -m "Se envia el commit"
 
 ## Para descartar algun cambio posterior al commit
-# git checkout --archivo.txt
-
-#git status  -  muestra los posibles comandos del proceso de estado de archivos
+#git checkout --archivo.txt
 
 ## para ver el log del git
 #git log
 
-=======
-## Esto fue un commit directo a master
+## Para clonar un repositorio
+#git clone url_repositorio
+
+## Para adicionar un origen remoto
+#git remote add origen url_repositorio
 
