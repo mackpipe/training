@@ -16,9 +16,9 @@ Repositorio para entrenamiento
 #git status
 
 
-#Estado de archivos 
+#Estado de archivos
 
-## Para adicionar archivos al Staged 
+## Para adicionar archivos al Staged
 #git add .
 #git add archivo.txt
 #git add carpeta/
@@ -26,7 +26,7 @@ Repositorio para entrenamiento
 ## Si se quiere quitar un archivo del Staged
 #git reset HEAD archivo.txt
 
-## Para hacer un Commit 
+## Para hacer un Commit
 #git commit -m "Se envia el commit"
 
 ## Para descartar algun cambio posterior al commit
@@ -38,6 +38,6 @@ Repositorio para entrenamiento
 ## Para clonar un repositorio
 #git clone url_repositorio
 
-## Para adicionar un origen remoto
+## Para adicionar un origen remoto.
 #git remote add origen url_repositorio
 
